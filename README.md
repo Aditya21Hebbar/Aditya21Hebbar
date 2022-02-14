@@ -1,5 +1,5 @@
 ### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
-I am Aditya Hebbar
+I am Aditya Hebbar Just an engineer with curiosity <br>
 I code in any languages including   
 | Python | C/C++ | JAVA  |TypeScript |
 | :---:  | :---: | :---: |  :---:    | 
