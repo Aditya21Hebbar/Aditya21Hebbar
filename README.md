@@ -36,7 +36,7 @@ I code in any languages including
 ### Connect with me here:  
 
 
-<a href="linkedin.com/in/aditya-hebbar-0878811b2">
+<a href="https://www.linkedin.com/in/hebbaraditya/">
     <img align="left" alt="Aditya Hebbar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
    <a href="https://twitter.com/hebbar_aditya">
