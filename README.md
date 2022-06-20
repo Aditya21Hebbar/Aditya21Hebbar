@@ -1,4 +1,4 @@
-### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">
 I am Aditya Hebbar Just an engineer with curiosity <br>
 I code in any languages including   
 | Python | C/C++ | JAVA  |TypeScript |
@@ -21,17 +21,16 @@ I code in any languages including
 
 - 💬 Happy to connect at anytime!
 
-- You can find my whole work on DataScience here : <a href="https://jovian.ai/adityahebbarnhnm" >Jovian</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="15px">
+- You can find my whole work on DataScience here : <a href="https://jovian.ai/adityahebbarnhnm" >Jovian</a> 
 
+- Applying DataScience and Ai in real world 
 
-- Applying DataScience and Ai in real world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="15px">
+- So many big projects in coming days 
 
-- So many big projects in coming days <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
+-  I talk about Space,Physics,Rockets,Robots 
 
--  I talk about Space,Physics,Rockets,Robots <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px">
-
-- Researching on topics related to Efficient Ai, Autonomus vehicles <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="15px">
-- Feel free to give feedback <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="15px">
+- Researching on topics related to Efficient Ai, Autonomus vehicles 
+- Feel free to give feedback
 ## :rainbow: Have a good day!
 ### Connect with me here:  
 
