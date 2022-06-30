@@ -15,8 +15,4 @@ I am Aditya Hebbar. Just an engineer with curiosity <br>I code in any language i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Aditya21Hebbar&icon=0&color=0)](https://visitcount.itsvg.in)
