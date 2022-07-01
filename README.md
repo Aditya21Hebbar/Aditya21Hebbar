@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aditya Hebbar. Just an engineer with curiosity <br>I code in any language including python, C++, Java, Typescript<br><br><br>- 💬 Happy to connect at any time!<br><br>- You can find my whole work on Data Science here: <a href="https://jovian.ai/adityahebbarnhnm" >Jovian</a>  <br><br>- Applying Data Science and Ai in the real world <br><br>- So many big projects in coming days <br><br>- I talk about Space, Physics, Rockets, Robots <br><br>- Researching on topics related to Efficient Ai, Autonomous vehicles <br>- Feel free to give feedback<br>
+I am Aditya Hebbar. Just an engineer with curiosity <br>I code in any language including python, C++, Java, Typescript<br><br><br>- 💬 Happy to connect at any time!<br><br>- <h4>You can find my whole work and contributions on Data Science here: <a href="https://jovian.ai/adityahebbarnhnm" >Jovian</a></h4>  <br><br>- Applying Data Science and Ai in the real world <br><br>- So many big projects in coming days <br><br>- I talk about Space, Physics, Rockets, Robots <br><br>- Researching on topics related to Efficient Ai, Autonomous vehicles <br>- Feel free to give feedback<br>
 
 
 ## 🌐 Socials:
